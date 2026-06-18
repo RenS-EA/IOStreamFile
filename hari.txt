@@ -3,3 +3,5 @@ Selasa
 Rabu
 Kamis
 Jumat
+Sabtu
+Minggu
