@@ -1,0 +1,5 @@
+Laptop,8500000.0,5
+Smartphone,3500000.0,10
+Kemeja,150000.0,25
+Indomie Box,120000.0,15
+Buku Tulis,5000.0,100
